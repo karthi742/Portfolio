@@ -41,7 +41,7 @@ const Hero = () => {
         <div className={styles.content}>
           <div className={styles.imageContainer}>
             <img 
-              src="/Passport size.jpg" 
+              src="/newPhoto.jpg" 
               alt={resumeData.personal.name}
               className={styles.profileImage}
             />
