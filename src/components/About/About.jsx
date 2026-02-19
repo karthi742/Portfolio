@@ -83,7 +83,7 @@ const About = () => {
               className={styles.downloadButton}
               onClick={() => {
                 const link = document.createElement("a");
-                link.href = "/karthiB-Resume.pdf"; // path to your file in public folder
+                link.href = "/Resume.pdf"; // path to your file in public folder
                 link.download = "karthi B - Resume.pdf";
                 link.click();
               }}
