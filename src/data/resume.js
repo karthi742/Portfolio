@@ -3,17 +3,17 @@ export const resumeData = {
  personal: {
     name: "Karthi B",
     title: "Full Stack Developer",
-    email: "karthiazp@gmail.com",
-    phone: "+91 6374564278",
-    location: "Thanjavur, Tamil Nadu, India",
-    website: "https://www.karthicodes.online/",
+    email: "karthib7420@gmail.com",
+    phone: "+91 9677489766",
+    location: "Chennai, Tamil Nadu, India",
+    website: "https://portfolio-9wjvxptv3-karthis-projects-ffe8cb94.vercel.app/",
     summary:
-      "Full Stack Developer with 3.5 years of experience in PHP (Laravel), Node.js (Express, NestJS), and React. Proven track record of building scalable web applications, REST APIs, and CMS platforms. Skilled in backend development, frontend integration, cloud deployment, and cross-team collaboration. Recently expanded expertise into React for modern UI development."
+      "Full Stack Developer with 3.5 years of experience in React.js, Node.js (Express, NestJS) and PHP (Laravel). Proven track record of building scalable web applications, REST APIs, and CMS platforms. Skilled in backend development, frontend integration, cloud deployment, and cross-team collaboration. Recently expanded expertise into React for modern UI development."
   },
   
   social: {
     github: "https://github.com/karthi742",
-    linkedin: "https://www.linkedin.com/in/karthi-b-9a3a67381/",
+    linkedin: "https://www.linkedin.com/in/karthi-b-88b9a33ab/",
     portfolio: "#"
   },
 
